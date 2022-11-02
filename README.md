@@ -1,4 +1,4 @@
-# Repo of R shiny apps:
+## Repo of R shiny apps:
 
 #### Water-quality trends at TMD training sites: 
    https://willis-sontheimer.shinyapps.io/Water-quality/
